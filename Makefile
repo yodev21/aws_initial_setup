@@ -3,3 +3,6 @@ zip:
 
 unzip:
 	tar -xzf aws_initial_setup.tar.gz
+
+mv:
+	mv aws_initial_setup.tar.gz ~/Desktop
